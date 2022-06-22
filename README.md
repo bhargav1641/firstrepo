@@ -1,6 +1,3 @@
 # firstrepo
 my first repo
-hello world
-India
-Hyderabad
-good
+hell
